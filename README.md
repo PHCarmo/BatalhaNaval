@@ -1,5 +1,5 @@
 # BatalhaNaval
-Java / MySql - Jogo 'Batalha Naval'
+Java / MySQL - Jogo 'Batalha Naval'
 
 Para o funcionamento correto é necessário:
 + Executar o script de criação do banco de dados chamado 'script-mysql.sql';
